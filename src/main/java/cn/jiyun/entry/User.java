@@ -6,6 +6,7 @@ public class User {
     private String aaa1;
     private String aaa;
     private String aaa3;
+    private String aaa4;
 
     public String getUsername() {
         return username;
