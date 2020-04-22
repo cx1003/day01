@@ -3,7 +3,7 @@ package cn.jiyun.entry;
 public class User {
     private String username;
     private String password;
-
+    private String aaa1;
     private String aaa;
 
     public String getUsername() {
