@@ -5,6 +5,7 @@ public class User {
     private String password;
     private String aaa1;
     private String aaa;
+    private String aaa3;
 
     public String getUsername() {
         return username;
